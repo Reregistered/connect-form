@@ -9,7 +9,7 @@
   "dependencies": {
     "formidable": ">= 0.9.3"
   },
-  "main": "./index.js",
+  "main": "./lib/connect-form.js",
   "engines": {
     "node": ">= 0.1.98"
   },
