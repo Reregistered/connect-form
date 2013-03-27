@@ -7,7 +7,7 @@
     "email": "tj@vision-media.ca"
   },
   "dependencies": {
-    "formidable": ">= 0.9.3"
+    "formidable": "1.0.11"
   },
   "main": "./lib/connect-form.js",
   "engines": {
